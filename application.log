@@ -1,0 +1,8 @@
+2021-11-29 14:54:44,163  INFO [main] class:23 - Launch Browser
+2021-11-29 14:54:46,576  INFO [main] class:35 - Opened application
+2021-11-29 14:54:46,583  INFO [main] class:42 - Title matches
+2021-11-29 14:54:50,023  INFO [main] class:55 - Successfully validated login
+2021-11-29 14:59:14,685  INFO [main] class:23 - Launch Browser
+2021-11-29 14:59:17,101  INFO [main] class:35 - Opened application
+2021-11-29 14:59:17,107  INFO [main] class:42 - Title matches
+2021-11-29 14:59:20,744  INFO [main] class:55 - Successfully validated login
